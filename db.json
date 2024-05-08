@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "id": "f072",
+      "nombre": "Andres",
+      "apellido": "Villanueva Tabares",
+      "correo": "andres.villanueva.tabares@gmail.com",
+      "telefono": "332-336-3581",
+      "empresa": "1110522627",
+      "puesto": "FRONTEND DEVELOPER",
+      "estado": true
+    }
+  ]
+}
